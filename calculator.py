@@ -6,10 +6,10 @@ product=num1*num2
 modulous =num1%num2
 exponent =num1**num2
 floordivision =num1//num2
+a=input('enter the operator')
 print('**************************************************************')
 print('okay here is your answer baby')
 print('**************************************************************')
-a=input('enter the operator')
 if (a=='+'):
    print('The sum is ', sum)
 elif (a=='-'):
